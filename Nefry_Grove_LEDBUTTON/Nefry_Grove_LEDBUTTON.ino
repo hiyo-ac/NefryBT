@@ -1,5 +1,5 @@
-#define LED A0      //LEDモジュールを指したGroveコネクタ
-#define BUTTON D2　 //BUTTONモジュールを指したGroveコネクタ
+#define LED A0      //LEDモジュールを挿したGroveコネクタ
+#define BUTTON D2　 //BUTTONモジュールを挿したGroveコネクタ
 
 void setup() {
   pinMode(LED, OUTPUT);
